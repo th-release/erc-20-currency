@@ -1,0 +1,26 @@
+# Build artifacts
+build/
+artifacts/
+.states/
+
+# Remix IDE files
+.remix/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment variables
+.env
+
+# Node modules (if using any node-based tools)
+node_modules/
